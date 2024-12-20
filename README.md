@@ -5,6 +5,8 @@
   - **Ссылка на backend (репозиторий GitHub)**: https://github.com/niknikas24/project-garden-shop-react-backend.git
 
   - **Ссылка на Render**: https://project-garden-shop-react-backend.onrender.com 
+  
+  - **Ссылка на Vercel**: https://project-garden-shop-react.vercel.app/ 
 
 
 ## Установка и запуск
