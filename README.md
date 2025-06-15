@@ -1,12 +1,9 @@
 # Project - Garden shop
 
-  - **Ссылка на макет**: https://www.figma.com/file/0pMguGfGcTgufmXlNJe5gO/IE-FE?type=design&node-id=0%3A1&mode=design&t=SVYvDXP7EzFIVWrg-1
-
-  - **Ссылка на backend (репозиторий GitHub)**: https://github.com/niknikas24/project-garden-shop-react-backend.git
-
-  - **Ссылка на Render**: https://project-garden-shop-react-backend.onrender.com 
-  
-  - **Ссылка на Vercel**: https://project-garden-shop-react.vercel.app/ 
+- [Ссылка на макет](https://www.figma.com/file/0pMguGfGcTgufmXlNJe5gO/IE-FE?type=design&node-id=0%3A1&mode=design&t=SVYvDXP7EzFIVWrg-1)
+- [Ссылка на backend (репозиторий GitHub)](https://github.com/niknikas24/project-garden-shop-react-backend.git)
+- [Ссылка на Render](https://project-garden-shop-react-backend.onrender.com)
+- [Ссылка на Vercel](https://project-garden-shop-react.vercel.app/)
 
 
 ## Установка и запуск
